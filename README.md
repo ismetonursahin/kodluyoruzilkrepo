@@ -1,4 +1,11 @@
 # kodluyoruzilkrepo
 Kodluyoruz Front-End kapsamında aldığım ilk repo.
 
-## insafksdf
+## Installation
+  Öncelikle projeyi clonelayın.
+``` 
+https://github.com/ismetonursahin/kodluyoruzilkrepo.git
+``` 
+
+
+  
