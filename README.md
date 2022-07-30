@@ -4,9 +4,10 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End eğitiminde oluşturd
 
 ## Installation
   Öncelikle projeyi clonelayın.
-<!--``` -->
+``` 
 https://github.com/ismetonursahin/kodluyoruzilkrepo.git
-<!--``` -->
-
+``` 
+``` asdasd
+asdasd
 
   
